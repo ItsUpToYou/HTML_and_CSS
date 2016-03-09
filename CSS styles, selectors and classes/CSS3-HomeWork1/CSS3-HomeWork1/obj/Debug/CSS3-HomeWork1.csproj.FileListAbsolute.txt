@@ -1,0 +1,6 @@
+c:\users\asrock\documents\visual studio 2013\Projects\CSS3-HomeWork1\CSS3-HomeWork1\bin\CSS3-HomeWork1.dll.config
+c:\users\asrock\documents\visual studio 2013\Projects\CSS3-HomeWork1\CSS3-HomeWork1\bin\CSS3-HomeWork1.dll
+c:\users\asrock\documents\visual studio 2013\Projects\CSS3-HomeWork1\CSS3-HomeWork1\bin\CSS3-HomeWork1.pdb
+c:\users\asrock\documents\visual studio 2013\Projects\CSS3-HomeWork1\CSS3-HomeWork1\obj\Debug\CSS3-HomeWork1.csprojResolveAssemblyReference.cache
+c:\users\asrock\documents\visual studio 2013\Projects\CSS3-HomeWork1\CSS3-HomeWork1\obj\Debug\CSS3-HomeWork1.dll
+c:\users\asrock\documents\visual studio 2013\Projects\CSS3-HomeWork1\CSS3-HomeWork1\obj\Debug\CSS3-HomeWork1.pdb

@@ -1,0 +1,6 @@
+C:\Users\ASRock\documents\visual studio 2013\Projects\homework2\homework2\bin\homework2.dll.config
+C:\Users\ASRock\documents\visual studio 2013\Projects\homework2\homework2\bin\homework2.dll
+C:\Users\ASRock\documents\visual studio 2013\Projects\homework2\homework2\bin\homework2.pdb
+C:\Users\ASRock\documents\visual studio 2013\Projects\homework2\homework2\obj\Debug\homework2.csprojResolveAssemblyReference.cache
+C:\Users\ASRock\documents\visual studio 2013\Projects\homework2\homework2\obj\Debug\homework2.dll
+C:\Users\ASRock\documents\visual studio 2013\Projects\homework2\homework2\obj\Debug\homework2.pdb

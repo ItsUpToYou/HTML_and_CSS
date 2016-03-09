@@ -1,0 +1,42 @@
+body
+{
+  
+    background:#407eac; 
+    
+        
+}
+.buttons
+{
+      
+    border-radius: 8px;
+    height:100%;
+    width:100%;
+}
+table td
+{
+   border-radius: 7px;
+   height:40px;
+   width:50px;
+  
+    
+}
+.numbers
+{  
+    text-align: right;
+    border-radius: 5px;
+    height: 100%;
+     width: 98%;
+}
+.field
+{
+   height: 30px;
+   border-radius: 5px;
+    
+}
+table
+{
+    background : linear-gradient(#5f6f2f,#163e5b);
+    border-radius: 5px;
+    border: 1px;
+    border-style: outset;
+}

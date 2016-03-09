@@ -1,0 +1,6 @@
+C:\Users\ASRock\Desktop\Velko\CSS3\css3-1\CSS3-HomeWork1.3\CSS3-HomeWork1.3\bin\CSS3-HomeWork1.3.dll.config
+C:\Users\ASRock\Desktop\Velko\CSS3\css3-1\CSS3-HomeWork1.3\CSS3-HomeWork1.3\bin\CSS3-HomeWork1.3.dll
+C:\Users\ASRock\Desktop\Velko\CSS3\css3-1\CSS3-HomeWork1.3\CSS3-HomeWork1.3\bin\CSS3-HomeWork1.3.pdb
+C:\Users\ASRock\Desktop\Velko\CSS3\css3-1\CSS3-HomeWork1.3\CSS3-HomeWork1.3\obj\Debug\CSS3-HomeWork1.3.csprojResolveAssemblyReference.cache
+C:\Users\ASRock\Desktop\Velko\CSS3\css3-1\CSS3-HomeWork1.3\CSS3-HomeWork1.3\obj\Debug\CSS3-HomeWork1.3.dll
+C:\Users\ASRock\Desktop\Velko\CSS3\css3-1\CSS3-HomeWork1.3\CSS3-HomeWork1.3\obj\Debug\CSS3-HomeWork1.3.pdb

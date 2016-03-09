@@ -1,0 +1,45 @@
+﻿body {
+    background: white;
+}
+
+table{
+    border-collapse:collapse;
+      
+    
+}
+
+th{
+    width:11em;
+    text-align:left;
+    padding-left:10px;
+    text-shadow:3px 3px 3px black
+
+}
+
+td{
+    padding:8px;
+    vertical-align: middle;
+}
+
+.ispromoted{
+    width:125px;
+    height:40px;
+}
+
+.verticalAlign img{
+    vertical-align:middle;
+}
+
+tr:nth-child(2n){
+    background:#fff;
+}
+
+tr:nth-child(2n+1){
+    background:#ececd8;
+}
+
+tr:nth-child(1){
+    color:#fff;
+    background:linear-gradient(#5ec306,#50b306);
+    font-family: ''sans-serif';
+}

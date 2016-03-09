@@ -1,0 +1,66 @@
+﻿body { 
+	background: #a9a71e; 
+	margin: 0px; 
+	padding: 0px; 
+	color: #000000; 
+	font-size: 19px; 
+    font-family: Tahoma, Verdana, Arial, Sans-Serif;
+}
+
+table{
+    border-collapse: collapse;
+    border-color: white;
+    background:#595959;
+    margin: 10% auto;
+    width:500px;
+}
+td{
+    padding-left:8px;
+    padding-top: 18px;
+    padding-bottom:10px;
+}
+
+
+.secondTD{
+    color:#acadac;
+    width: 290px;
+    vertical-align:text-bottom;
+}
+
+.ticket{
+    text-align:left;
+    padding-bottom: 12px;
+    font-size: 18pt;
+}
+
+.dotgreen:before{
+    content:url("dot.png");
+    margin-right:5px;
+    
+}
+
+.dotgreen.yellow{
+    color: #e5e0a1;
+    padding-bottom: 28px;
+}
+
+
+.firstTD{
+    width:130px;
+    text-align: left;
+    font-style: italic;
+    color: #d3dfea;
+    vertical-align:top;
+}
+.secondTD.yellow{
+    color:#e5e0a1;
+}
+
+.secondTD.status{
+    color:#e4592c;
+}
+
+.supportColor{
+    width:30px;
+    color:#e91c32;
+}

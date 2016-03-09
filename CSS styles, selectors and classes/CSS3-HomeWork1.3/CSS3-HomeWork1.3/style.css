@@ -1,0 +1,50 @@
+﻿body {
+    background: #a9a9a9;
+}
+
+header h1 {
+    color: #fafad2;
+    font-size: 3em;
+    text-align:center;
+}
+#background a{
+    background:#d3d3d3;
+}
+footer a{
+    color: blue;
+}
+nav{
+    text-align:center;
+    color:white;
+}
+
+#underline {
+    text-decoration: underline; 
+}
+section header h1{
+    color: #fafad2;
+    font-size: 2em;
+    text-align:left;
+}
+
+li{
+    list-style:none;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+section footer{
+    text-align: left;
+}
+
+footer{
+    font-size: 0.7em;
+    text-align: center;
+}
+
+span{
+    font-size: 1.3em;
+}

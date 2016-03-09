@@ -1,0 +1,22 @@
+#table2
+{
+    width:15%;
+    text-align: center;
+    
+}
+.righcolumn
+{
+    text-align: right;
+}
+.leftC
+{
+    text-align: left;
+}
+#verticalbottom
+{
+    vertical-align: bottom
+}
+.size
+{
+    width: 30px;
+}

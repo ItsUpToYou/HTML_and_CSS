@@ -1,0 +1,22 @@
+table
+{
+    border-spacing: 0;
+}
+.table1 td
+{
+
+    padding: 6px;
+}
+
+table th
+{
+     padding: 6px; 
+}
+body
+{
+    font-family: "Times New Roman",Georgia,Serif;
+}
+.total
+{
+    font-weight: bold;
+}
